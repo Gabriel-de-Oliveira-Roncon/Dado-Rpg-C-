@@ -1,0 +1,15 @@
+C:\Users\Cida\Desktop\Dado\bin\Debug\net6.0\Dado.exe
+C:\Users\Cida\Desktop\Dado\bin\Debug\net6.0\Dado.deps.json
+C:\Users\Cida\Desktop\Dado\bin\Debug\net6.0\Dado.runtimeconfig.json
+C:\Users\Cida\Desktop\Dado\bin\Debug\net6.0\Dado.dll
+C:\Users\Cida\Desktop\Dado\bin\Debug\net6.0\Dado.pdb
+C:\Users\Cida\Desktop\Dado\obj\Debug\net6.0\Dado.csproj.AssemblyReference.cache
+C:\Users\Cida\Desktop\Dado\obj\Debug\net6.0\Dado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cida\Desktop\Dado\obj\Debug\net6.0\Dado.AssemblyInfoInputs.cache
+C:\Users\Cida\Desktop\Dado\obj\Debug\net6.0\Dado.AssemblyInfo.cs
+C:\Users\Cida\Desktop\Dado\obj\Debug\net6.0\Dado.csproj.CoreCompileInputs.cache
+C:\Users\Cida\Desktop\Dado\obj\Debug\net6.0\Dado.dll
+C:\Users\Cida\Desktop\Dado\obj\Debug\net6.0\refint\Dado.dll
+C:\Users\Cida\Desktop\Dado\obj\Debug\net6.0\Dado.pdb
+C:\Users\Cida\Desktop\Dado\obj\Debug\net6.0\Dado.genruntimeconfig.cache
+C:\Users\Cida\Desktop\Dado\obj\Debug\net6.0\ref\Dado.dll
